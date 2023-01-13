@@ -4,7 +4,11 @@ AJAX visualizes them into a window with messages
 
 
 #Demo
-https://github.com/Simo-NBU-100673/MessagesWithAJAX/blob/master/demo.mp4
+
+
+https://user-images.githubusercontent.com/81335974/212210157-56c005f9-fd81-4bc6-b117-2b106f5e3c83.mp4
+
+
  
 ## Installation
 
