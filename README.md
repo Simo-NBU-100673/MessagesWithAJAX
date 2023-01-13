@@ -1,6 +1,5 @@
 # MessagesWithAJAX
 
-#Description
 Creates messages with title, description and time-stamp and using
 AJAX visualizes them into a window with messages
  
