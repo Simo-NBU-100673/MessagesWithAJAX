@@ -6,7 +6,8 @@ AJAX visualizes them into a window with messages
 #Demo
 
 
-https://user-images.githubusercontent.com/81335974/212210157-56c005f9-fd81-4bc6-b117-2b106f5e3c83.mp4
+
+https://user-images.githubusercontent.com/81335974/212210606-65cf5237-fbfa-4359-b738-e2fc7f79fd85.mp4
 
 
  
