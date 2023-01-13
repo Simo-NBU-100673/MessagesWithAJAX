@@ -3,7 +3,7 @@ Creates messages with title, description and time-stamp and using
 AJAX visualizes them into a window with messages
 
 
-#Demo
+##Demo
 
 
 
@@ -33,8 +33,3 @@ To run it you must hava apache to run the project from home.php
 ## Authors
 
 - [@Simeon Popov](https://github.com/Simo-NBU-100673)
-
-
-## Demo
-
-
