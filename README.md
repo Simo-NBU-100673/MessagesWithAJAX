@@ -1,10 +1,11 @@
 # MessagesWithAJAX
-
 Creates messages with title, description and time-stamp and using
 AJAX visualizes them into a window with messages
+
+
+#Demo
+https://github.com/Simo-NBU-100673/MessagesWithAJAX/blob/master/video%20for%20gif.gif
  
-
-
 ## Installation
 
 Currently the project does not hava a database so it does not need any instalation of database.
