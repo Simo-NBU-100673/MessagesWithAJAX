@@ -4,7 +4,7 @@ AJAX visualizes them into a window with messages
 
 
 #Demo
-https://github.com/Simo-NBU-100673/MessagesWithAJAX/blob/master/video%20for%20gif.gif
+![](https://github.com/Simo-NBU-100673/MessagesWithAJAX/blob/master/video%20for%20gif.gif)
  
 ## Installation
 
